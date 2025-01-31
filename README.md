@@ -1,4 +1,6 @@
 # ODBSSITANT
+![image](https://github.com/user-attachments/assets/dcaf9bbf-651e-4044-8132-ae20b0629d67)
+
 ```
 Crée une application complète et fonctionnelle en respectant le cahier des charges pour une application d' Assistant IA de Jeux Vidéo avec Django, Fait en sorte que la structure soit correcte et ajoute tous les éléments nécessaire pour que toutes les fonctionnalité soit utilisable. Cet assistant doit analyser les comportements de jeu des utilisateurs, fournir des recommandations personnalisées, intégrer un assistant vocal interactif, et proposer des fonctionnalités communautaires.
 
